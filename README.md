@@ -3,7 +3,7 @@ Este proyecto es una aplicación de escritorio para la gestión de encuestas uti
 Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de encuestas y visualizar gráficos
 
 # 🎬Preview
-![]
+![](gestion1.png)
 
 # 💻Usage
 
