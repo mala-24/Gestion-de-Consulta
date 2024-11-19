@@ -120,6 +120,8 @@ La aplicación permite aplicar filtros para buscar y visualizar encuestas espec�
 
 - Haz clic en "Generar Gráfico" para visualizar el gráfico correspondiente basado en los datos de la tabla
 
+  ![](grafico.png)
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
